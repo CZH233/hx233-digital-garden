@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index-of-obsidian-library/","tags":["MOC","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/index-of-obsidian-library/","tags":["MOC","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
