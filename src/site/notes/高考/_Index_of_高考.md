@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//index-of/"}
+{"dg-publish":true,"permalink":"//index-of/","tags":["MOC"]}
 ---
 
 
